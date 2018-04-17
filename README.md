@@ -31,7 +31,7 @@ In addition to downloading the editor, you should also install the following:
 | Package manager     | Built-in!        | Built-in!        | Package Control         |
 | Linting framework   | Built-in!        | `linter`         | `SublimeLinter`         |
 | rubocop linter      | `ruby-rubocop`   | `linter-rubocop` | `SublimeLinter-rubocop` |
-| Ruby support        | `ruby-symbols`   | Built-in!        | Built-in!               |
+| Ruby symbol support | `Bust A Gem`     | Built-in!        | Built-in!               |
 | Ruby debugger       | `Ruby`           | Unsupported      | Unsupported             |
 | Integrated terminal | Built-in!        | Unsupported      | Unsupported             |
 | File commands       | `File Utils`     | Built-in!        | `SideBarEnhancements`   |
